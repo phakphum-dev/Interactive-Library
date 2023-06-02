@@ -17,5 +17,6 @@ This repositories or archive will contain some of Testing-Library from Interacti
 - [891 Dark Penguin and Archery (ยากโคตร)](https://api.otog.cf/problem/doc/891) [(⚙ the library file)](./891%20Dark%20Penguin%20and%20Archery%20Hard/archery.h)
 - [892 Dark Penguin and Function (ง่ายโคตร)](https://api.otog.cf/problem/doc/892) [(⚙ the library file)](./892%20Dark%20Penguin%20and%20Function%20Easy/function.h)
 - [893 Dark Penguin and Function (ยากโคตร)](https://api.otog.cf/problem/doc/893) [(⚙ the library file)](./893%20Dark%20Penguin%20and%20Function%20Hard/function.h)
+- [929 Cyberland](https://api.otog.cf/problem/doc/929) [(⚙ the library file)](./929%20Cyberland/cyberland.h)
 
 > PS Most of Otog's problem are written in Thai
