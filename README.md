@@ -20,6 +20,7 @@ This repositories or archive will contain some of Testing-Library from Interacti
 - [929 Cyberland](https://otog.in.th/problem/929) [(⚙ the library file)](./929%20Cyberland/cyberland.h)
 - [930 Dark Penguin and Function Overkill](https://otog.in.th/problem/930) [(⚙ the library file)](./930%20Dark%20enguin%20and%20Function%20Overkill/function.h)
 - [931 council](https://otog.in.th/problem/931) [(⚙ the library file)](./931%20council/council.h)
+- [959 TUMSO20_mathmath2](https://otog.in.th/problem/959) [(⚙ the library file)](./959%20TUMSO20_mathmath2/mathmath2.h)
 - [1014 TOI20_Route](https://otog.in.th/problem/1014) [(⚙ the library file)](./1014%20TOI20_Route/route.h)
 
 > PS Most of Otog's problem are written in Thai
